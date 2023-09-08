@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"projet.game"},{"l":"projet.game.combat"},{"l":"projet.game.combat.bestiary"},{"l":"projet.game.events"},{"l":"projet.game.hero"},{"l":"projet.game.items"},{"l":"projet.game.map"}];updateSearchResults();
