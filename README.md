@@ -108,4 +108,4 @@ On a trouvé plus simple de faire une classe pour chaque type item vu qu'il se d
     > La difficulté a été d'enregistrer les interactions pour chaque item et de les faire fonctionner en fonction de si c'est `Passif`, `Each turn` ou `On use`.
 
 &nbsp;
-<p>Auteur : CHEVALIER Helena - BREDEAU Kellian</p>
+<p>Auteur : CHEVALIER Hélèna - BREDEAU Kellian</p>
